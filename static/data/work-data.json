@@ -1,0 +1,518 @@
+[
+  {
+    "id": "linguify",
+    "title": "Linguify",
+    "details": {
+      "description": "A full-stack web application for language learning with a focus on vocabulary and grammar with AI.",
+      "summary": "Learn Languages With AI"
+    },
+    "roles": [
+      "Next.js",
+      "React.js",
+      "Bun",
+      "ElevenLabs",
+      "Drizzle",
+      "NeonTech",
+      "Tailwind CSS",
+      "Stripe",
+      "TypeScript",
+      "Clerk"
+    ],
+    "links": [
+      {
+        "type": "web",
+        "text": "Visit Site",
+        "text2": "Visit GitHub",
+        "link": "https://linguify-tau.vercel.app/",
+        "link2": "https://github.com/knightfury101/linguify"
+      }
+    ]
+  },
+  {
+    "id": "collab-canvas",
+    "title": "Collab Canvas",
+    "details": {
+      "description": "Cutting-edge real-time collaboration tool for remote teams.",
+      "summary": "Real-Time Collaboration Tool"
+    },
+    "roles": [
+      "Next.js 14",
+      "React.js",
+      "Tailwind CSS",
+      "LiveBlocks",
+      "Convex Database",
+      "ShadcnUI",
+      "Clerk Authentication",
+      "Stripe"
+    ],
+    "links": [
+      {
+        "type": "web",
+        "text": "Visit Site",
+        "text2": "Visit GitHub",
+        "link": "https://collabcanvas.vercel.app/",
+        "link2": "https://github.com/knightfury101/collabcanvas"
+      }
+    ]
+  },
+  {
+    "id": "live-vibe",
+    "title": "LiveVibe",
+    "details": {
+      "description": "Revolutionary live streaming platform for seamless content creation.",
+      "summary": "Live Streaming Platform"
+    },
+    "roles": [
+      "Next.js 14",
+      "React.js",
+      "Tailwind CSS",
+      "WebSockets",
+      "Neon DB",
+      "LiveKit",
+      "ShadcnUI",
+      "Prisma",
+      "PostgreSQL",
+      "Clerk Authentication",
+      "UploadThing"
+    ],
+    "links": [
+      {
+        "type": "web",
+        "text": "Visit Site",
+        "text2": "Visit GitHub",
+        "link": "https://live-vibe.vercel.app/",
+        "link2": "https://github.com/knightfury101/live-vibe"
+      }
+    ]
+  },
+  {
+    "id": "perkyz",
+    "title": "Board Buddy",
+    "details": {
+      "description": "Ultimate project management tool inspired by Trello for enhanced efficiency.",
+      "summary": "Project Management Tool"
+    },
+    "roles": [
+      "Next.js 13",
+      "React.js",
+      "Tailwind CSS",
+      "Prisma",
+      "MySQL",
+      "Clerk Authentication",
+      "Stripe",
+      "Unsplash API"
+    ],
+    "links": [
+      {
+        "type": "web",
+        "text": "Visit Site",
+        "text2": "Visit GitHub",
+        "link": "https://perkyz-task-master-knightfury101.vercel.app/",
+        "link2": "https://github.com/knightfury101/Perkyz-Task-Master"
+      }
+    ]
+  },
+  {
+    "id": "docuverse",
+    "title": "Docuverse",
+    "details": {
+      "description": "Revolutionary PDF viewer platform with real-time API responses.",
+      "summary": "AI Chatting With PDF"
+    },
+    "roles": [
+      "Pinecone Vector Database",
+      "tRPC",
+      "Next.js 13",
+      "React.js",
+      "OpenAI API",
+      "Tailwind CSS",
+      "ShadcnUI",
+      "Prisma",
+      "Kinde Authentication",
+      "Stripe",
+      "LangChain"
+    ],
+    "links": [
+      {
+        "type": "web",
+        "text": "Visit Site",
+        "text2": "Visit GitHub",
+        "link": "https://docuverse-knightfury101.vercel.app/",
+        "link2": "https://github.com/knightfury101/docuverse"
+      }
+    ]
+  },
+  {
+    "id": "motion",
+    "title": "Brainbox",
+    "details": {
+      "description": "Powerful platform designed to streamline workflow with real-time database integration.",
+      "summary": "Productivity Platform"
+    },
+    "roles": [
+      "Convex Database",
+      "BlockNote",
+      "Next.js 13",
+      "React.js",
+      "Tailwind CSS",
+      "Edgestore",
+      "ShadcnUI",
+      "Clerk Authentication"
+    ],
+    "links": [
+      {
+        "type": "web",
+        "text": "Visit Site",
+        "text2": "Visit GitHub",
+        "link": "https://motion-sand.vercel.app/",
+        "link2": "https://github.com/knightfury101/motion"
+      }
+    ]
+  },
+  {
+    "id": "perkyz-learning",
+    "title": "Perkyz Learning",
+    "details": {
+      "description": "Innovative online learning platform leveraging modern web technologies.",
+      "summary": "Online Learning Platform"
+    },
+    "roles": [
+      "MUX Studio",
+      "UploadThing",
+      "Next.js 13",
+      "React.js",
+      "Tailwind CSS",
+      "Prisma",
+      "MySQL",
+      "PlanetScale",
+      "ShadcnUI",
+      "Clerk Authentication",
+      "Stripe"
+    ],
+    "links": [
+      {
+        "type": "web",
+        "text": "Visit Site",
+        "text2": "Visit GitHub",
+        "link": "https://perkyz-learning.vercel.app/",
+        "link2": "https://github.com/knightfury101/perkyz-learning"
+      }
+    ]
+  },
+  {
+    "id": "intellicaptions",
+    "title": "IntelliCaptions",
+    "details": {
+      "description": "Automates caption creation for social media video content with AI.",
+      "summary": "Automated Caption Creation"
+    },
+    "roles": [
+      "React.js",
+      "Next.js 13",
+      "AWS S3",
+      "Tailwind CSS",
+      "Amazon Transcribe Model",
+      "FFmpeg"
+    ],
+    "links": [
+      {
+        "type": "web",
+        "text": "Visit Site",
+        "text2": "Visit GitHub",
+        "link": "https://intellicaption.vercel.app/",
+        "link2": "https://github.com/knightfury101/intellicaption"
+      }
+    ]
+  },
+  {
+    "id": "discord-clone",
+    "title": "Discord Clone",
+    "details": {
+      "description": "Real-time messaging app offering lightning-fast messaging and video calls.",
+      "summary": "Real-Time Messaging App"
+    },
+    "roles": [
+      "Socket.io",
+      "LiveKit",
+      "UploadThing",
+      "Next.js 13",
+      "React.js",
+      "Tailwind CSS",
+      "Prisma",
+      "MySQL",
+      "ShadcnUI",
+      "Clerk Authentication",
+      "Railway"
+    ],
+    "links": [
+      {
+        "type": "web",
+        "text": "Visit Site",
+        "text2": "Visit GitHub",
+        "link": "https://discord-clone-production-e325.up.railway.app/",
+        "link2": "https://github.com/knightfury101/discord-clone"
+      }
+    ]
+  },
+  {
+    "id": "sidekick-plus",
+    "title": "Sidekick+ AI",
+    "details": {
+      "description": "Advanced AI SaaS platform integrating cutting-edge technologies for robust capabilities.",
+      "summary": "AI SaaS Platform"
+    },
+    "roles": [
+      "OpenAI API",
+      "Replicate AI API",
+      "LangChain",
+      "Pinecone Vector Database",
+      "Upstash Redis Database",
+      "Next.js 13",
+      "React.js",
+      "Tailwind CSS",
+      "Stripe",
+      "Cloudinary CDN",
+      "ShadcnUI",
+      "Prisma",
+      "Clerk Authentication"
+    ],
+    "links": [
+      {
+        "type": "web",
+        "text": "Visit Site",
+        "text2": "Visit GitHub",
+        "link": "https://ai-sidekick.vercel.app/",
+        "link2": "https://github.com/knightfury101/ai-sidekick"
+      }
+    ]
+  },
+  {
+    "id": "savant-plus",
+    "title": "Savant+ AI",
+    "details": {
+      "description": "Comprehensive AI SaaS solution integrating OpenAI and ReplicateAI APIs for various applications.",
+      "summary": "AI SaaS Solution"
+    },
+    "roles": [
+      "OpenAI API",
+      "Replicate AI API",
+      "Next.js 13",
+      "React.js",
+      "Tailwind CSS",
+      "Stripe",
+      "ShadcnUI",
+      "Prisma",
+      "PlanetScale",
+      "Clerk Authentication",
+      "Crisp Chat"
+    ],
+    "links": [
+      {
+        "type": "web",
+        "text": "Visit Site",
+        "text2": "Visit GitHub",
+        "link": "https://ai-saas-j3s6xvj54-knightfury101.vercel.app/",
+        "link2": "https://github.com/knightfury101/ai-saas/tree/main"
+      }
+    ]
+  },
+  {
+    "id": "ecommerce-front-end-store",
+    "title": "eCommerce Store",
+    "details": {
+      "description": "Impressive store developed with React.js, Next.js, Tailwind CSS, Prisma, MySQL, and PlanetScale.",
+      "summary": "E-Commerce Store"
+    },
+    "roles": [
+      "Next.js 13.4 App Router",
+      "React.js",
+      "Tailwind CSS",
+      "MySQL",
+      "Stripe",
+      "ShadcnUI",
+      "Prisma",
+      "PlanetScale",
+      "Clerk Authentication"
+    ],
+    "links": [
+      {
+        "type": "web",
+        "text": "Visit Site",
+        "text2": "Visit GitHub",
+        "link": "https://ecommerce-store-nine-psi.vercel.app/",
+        "link2": "https://github.com/knightfury101/ecommerce-store"
+      }
+    ]
+  },
+  {
+    "id": "ecommerce-dashboard",
+    "title": "eCommerce Dashboard",
+    "details": {
+      "description": "State-of-the-art Admin Dashboard built with React.js, Next.js, Tailwind CSS, Prisma, MySQL, and PlanetScale.",
+      "summary": "Admin Dashboard"
+    },
+    "roles": [
+      "Next.js 13.4 App Router",
+      "React.js",
+      "Tailwind CSS",
+      "MySQL",
+      "Stripe",
+      "ShadcnUI",
+      "Prisma",
+      "PlanetScale",
+      "Clerk Authentication"
+    ],
+    "links": [
+      {
+        "type": "web",
+        "text": "Visit Site",
+        "text2": "Visit GitHub",
+        "link": "https://ecommerce-admin-bupfqm4m6-knightfury101.vercel.app/",
+        "link2": "https://github.com/knightfury101/ecommerce-admin"
+      }
+    ]
+  },
+  {
+    "id": "spotify-clone",
+    "title": "Spotify Clone",
+    "details": {
+      "description": "Full Stack Spotify Clone built using Next.js, React.js, Tailwind CSS, Supabase, PostgreSQL, and Stripe.",
+      "summary": "Music Streaming Platform"
+    },
+    "roles": [
+      "Next.js 13.4",
+      "React.js",
+      "Tailwind CSS",
+      "Stripe",
+      "Supabase",
+      "PostgreSQL"
+    ],
+    "links": [
+      {
+        "type": "web",
+        "text": "Visit Site",
+        "text2": "Visit GitHub",
+        "link": "https://spotify-clone-tan-five.vercel.app/",
+        "link2": "https://github.com/knightfury101/spotify-clone"
+      }
+    ]
+  },
+  {
+    "id": "meta-messenger-clone",
+    "title": "Meta Messenger Clone",
+    "details": {
+      "description": "Real-time messenger app with features like message notifications, file upload, and online status.",
+      "summary": "Real-Time Messenger App"
+    },
+    "roles": [
+      "React.js",
+      "Next.js",
+      "Tailwind CSS",
+      "Prisma",
+      "MongoDB",
+      "NextAuth.js",
+      "Pusher"
+    ],
+    "links": [
+      {
+        "type": "web",
+        "text": "Visit Site",
+        "text2": "Visit GitHub",
+        "link": "https://meta-messenger-clone-aa2r.vercel.app/",
+        "link2": "https://github.com/knightfury101/meta-messenger-clone"
+      }
+    ]
+  },
+  {
+    "id": "airbnb-clone",
+    "title": "Airbnb Clone",
+    "details": {
+      "description": "Clone of Airbnb with features like booking system, credential authentication, and property search algorithms.",
+      "summary": "Vacation Rental Platform"
+    },
+    "roles": [
+      "React.js",
+      "Next.js",
+      "Tailwind CSS",
+      "Prisma",
+      "MongoDB",
+      "NextAuth.js"
+    ],
+    "links": [
+      {
+        "type": "web",
+        "text": "Visit Site",
+        "text2": "Visit GitHub",
+        "link": "https://clone-project-airbnb-git-main-knightfury101.vercel.app/",
+        "link2": "https://github.com/knightfury101/Clone-Project-Airbnb"
+      }
+    ]
+  },
+  {
+    "id": "ai-powered-summarizer",
+    "title": "AI Summarizer",
+    "details": {
+      "description": "Web app utilizing OpenAI's GPT model to generate summaries from text input.",
+      "summary": "Text Summarization Tool"
+    },
+    "roles": [
+      "OpenAI GPT-3",
+      "React.js",
+      "Vite",
+      "Tailwind CSS",
+      "Redux Toolkit Query"
+    ],
+    "links": [
+      {
+        "type": "web",
+        "text": "Visit Site",
+        "text2": "Visit GitHub",
+        "link": "https://scintillating-paletas-a4e5f1.netlify.app/",
+        "link2": "https://github.com/knightfury101/Sum-Up"
+      }
+    ]
+  },
+  {
+    "id": "3d-product-showcase",
+    "title": "3D Product Showcase",
+    "details": {
+      "description": "Web app featuring a 3D product showcase and integration with DALL-E AI API for image generation.",
+      "summary": "Product Visualization Tool"
+    },
+    "roles": [
+      "React.js",
+      "DALLE AI API",
+      "Three.js",
+      "React Three Fiber",
+      "Tailwind CSS",
+      "Framer Motion"
+    ],
+    "links": [
+      {
+        "type": "web",
+        "text": "Visit Site",
+        "text2": "Visit GitHub",
+        "link": "https://meek-salamander-9200f0.netlify.app/",
+        "link2": "https://github.com/knightfury101/threejs-ai"
+      }
+    ]
+  },
+  {
+    "id": "auto-moto",
+    "title": "Auto Moto",
+    "details": {
+      "description": "Web application for searching cars utilizing Next.js 13, Typescript, and Rapid API.",
+      "summary": "Car Search Platform"
+    },
+    "roles": ["React.js", "Next.js", "Typescript", "Tailwind CSS", "Rapid API"],
+    "links": [
+      {
+        "type": "web",
+        "text": "Visit Site",
+        "text2": "Visit GitHub",
+        "link": "https://auto-moto-alay.vercel.app/",
+        "link2": "https://github.com/knightfury101/auto_moto"
+      }
+    ]
+  }
+]
